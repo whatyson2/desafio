@@ -1,0 +1,18 @@
+Atividade 4: Sequências:
+
+a) A sequência aumenta em 2, então o próximo número é 9.
+
+b) A sequência consiste no dobro do número anterior, portanto o próximo é 128.
+
+c) A sequência segue o padrão dos quadrados de números inteiros, começando do zero. O próximo número será 49.
+
+d) Esta é um pouco mais difícil, pois consiste nos quadrados de números pares, começando do 2. É semelhante à alternativa anterior.
+
+e) Aqui, cada termo é a soma dos dois números anteriores (sequência de Fibonacci).
+
+f) Nesta sequência, parece que não há uma lógica completa, pois o terceiro termo é a soma dos dois primeiros, e o restante segue uma sequência a partir do 16.
+
+Atividade 5:
+
+Deixo o primeiro interruptor ligado, o segundo interruptor eu ligo e deixo por 10 minutos para que a lâmpada esquente. Depois, desligo o segundo interruptor. O terceiro interruptor eu não ligo. Assim, ao verificar as lâmpadas, poderei identificar qual interruptor controla cada lâmpada.
+
